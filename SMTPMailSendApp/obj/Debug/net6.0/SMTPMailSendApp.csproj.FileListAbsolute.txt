@@ -1,0 +1,15 @@
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\bin\Debug\net6.0\SMTPMailSendApp.exe
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\bin\Debug\net6.0\SMTPMailSendApp.deps.json
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\bin\Debug\net6.0\SMTPMailSendApp.runtimeconfig.json
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\bin\Debug\net6.0\SMTPMailSendApp.dll
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\bin\Debug\net6.0\SMTPMailSendApp.pdb
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.csproj.AssemblyReference.cache
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.AssemblyInfoInputs.cache
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.AssemblyInfo.cs
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.csproj.CoreCompileInputs.cache
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.dll
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\refint\SMTPMailSendApp.dll
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.pdb
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\SMTPMailSendApp.genruntimeconfig.cache
+C:\Users\Designers\source\repos\SMTPMailSendApp\SMTPMailSendApp\obj\Debug\net6.0\ref\SMTPMailSendApp.dll
